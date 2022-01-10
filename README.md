@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact **❤️🐶s**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
 <a href="https://linkedin.com/in/weixin-lin-43377019a" target="blank"><img align="center" src="asserts/linkedin.svg" alt="weixin-lin-43377019a" height="30" width="40" /></a>
 </p>
