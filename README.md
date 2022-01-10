@@ -18,12 +18,5 @@ Here are some ideas to get you started:
 
 <!-- Actual text -->
 
-You can find me on [![LinkedIn][3.2]][3].
+You can find me on <a hred="https://www.linkedin.com/in/weixin-lin-43377019a"><img alt="LinkedIn" height="21" src="asserts/linkedin.svg"></a>.
 
-<!-- Icons -->
-
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[2]: https://www.linkedin.com/in/weixin-lin-43377019a
