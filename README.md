@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 <!-- Actual text -->
 
-<h1 align="center">Hi 👋, I'm Hailey Lin</h1>
-
 - 🌱 I’m currently learning **Algorithm, ML**
 
 - 💬 Ask me about **Python**
