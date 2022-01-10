@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 <!-- Actual text -->
 
-You can find me on <a hred="https://www.linkedin.com/in/weixin-lin-43377019a"><img alt="LinkedIn" height="21" src="asserts/linkedin.svg"></a>.
+You can find me on <a href="https://www.linkedin.com/in/weixin-lin-43377019a"><img alt="LinkedIn" height="21" src="asserts/linkedin.svg"></a>.
 
