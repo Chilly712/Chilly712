@@ -18,5 +18,17 @@ Here are some ideas to get you started:
 
 <!-- Actual text -->
 
-You can find me on <a href="https://www.linkedin.com/in/weixin-lin-43377019a"><img alt="LinkedIn" height="21" src="asserts/linkedin.svg"></a>.
+<h1 align="center">Hi 👋, I'm Weixin Hailey Lin</h1>
 
+- 🌱 I’m currently learning **Algorithm, ML**
+
+- 💬 Ask me about **Python**
+
+- 📫 How to reach me **weixil4@uci.edu**
+
+- ⚡ Fun fact **❤️🐶s**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/weixin-lin-43377019a" target="blank"><img align="center" src="assets/linkedin" alt="weixin-lin-43377019a" height="30" width="40" /></a>
+</p>
