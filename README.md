@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <!-- Actual text -->
 
-<h1 align="center">Hi 👋, I'm Weixin Hailey Lin</h1>
+<h1 align="center">Hi 👋, I'm Hailey Lin</h1>
 
 - 🌱 I’m currently learning **Algorithm, ML**
 
@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/weixin-lin-43377019a" target="blank"><img align="center" src="assets/linkedin" alt="weixin-lin-43377019a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/weixin-lin-43377019a" target="blank"><img align="center" src="asserts/linkedin.svg" alt="weixin-lin-43377019a" height="30" width="40" /></a>
 </p>
